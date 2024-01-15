@@ -1,0 +1,154 @@
+1 - Sorting Algorithms:
+
+Bubble Sort
+Selection Sort
+Insertion Sort
+Merge Sort
+Quick Sort
+Heap Sort
+Counting Sort
+Radix Sort
+Bucket Sort
+
+2 - Searching Algorithms:
+
+Linear Search
+Binary Search
+Jump Search
+Exponential Search
+Interpolation Search
+
+3 - Graph Algorithms:
+
+Depth-First Search (DFS)
+Breadth-First Search (BFS)
+Dijkstra’s Algorithm
+Bellman-Ford Algorithm
+Kruskal’s Algorithm
+Prim’s Algorithm
+
+4 - Dynamic Programming:
+
+Fibonacci Series
+Longest Common Subsequence
+Knapsack Problem
+Coin Change Problem
+
+5 - Greedy Algorithms:
+
+Activity Selection
+Huffman Coding
+Prim’s Algorithm for Minimum Spanning Tree
+Kruskal’s Algorithm for Minimum Spanning Tree
+
+6 - Divide and Conquer:
+
+Quick Sort
+Merge Sort
+Binary Search
+
+7 - Backtracking:
+
+N-Queens Problem
+Sudoku Solver
+Permutations and Combinations
+
+8 -Hashing:
+
+Hash Tables
+Hash Functions
+
+9 -Advanced Sorting Algorithms:
+
+Shell Sort
+Tim Sort
+Comb Sort
+Pigeonhole Sort
+Cycle Sort
+Cocktail Sort
+Strand Sort
+
+10 - Graph Algorithms:
+
+Floyd-Warshall Algorithm
+Johnson’s Algorithm
+Topological Sort
+Eulerian Path and Circuit
+Hamiltonian Cycle
+Ford-Fulkerson Algorithm
+Edmonds-Karp Algorithm
+
+11 - Tree Data Structures:
+
+Binary Search Tree (BST)
+AVL Tree
+Red-Black Tree
+Splay Tree
+B-Tree
+B+ Tree
+R-Tree
+Segment Tree
+Fenwick Tree (Binary Indexed Tree)
+Trie (Prefix Tree)
+
+12 - Dynamic Programming:
+
+Matrix Chain Multiplication
+Edit Distance
+Maximum Subarray Problem
+Rod Cutting Problem
+Egg Dropping Puzzle
+
+13 - Greedy Algorithms:
+
+Fractional Knapsack Problem
+Job Sequencing with Deadlines
+Prim’s Algorithm for Minimum Spanning Tree
+Kruskal’s Algorithm for Minimum Spanning Tree
+Huffman Coding
+
+14 - Divide and Conquer:
+
+Strassen’s Matrix Multiplication
+Karatsuba Algorithm for Fast Multiplication
+
+15 - Backtracking:
+
+Rat in a Maze
+Word Break Problem
+Colorful Number
+
+16 - Hashing:
+
+Cuckoo Hashing
+Bloom Filters
+
+17 - String Algorithms:
+
+KMP Algorithm (Knuth-Morris-Pratt)
+Rabin-Karp Algorithm
+Z-Algorithm
+Manacher’s Algorithm
+
+18 - Number Theory and Combinatorial Algorithms:
+
+Sieve of Eratosthenes
+Euclidean Algorithm
+Extended Euclidean Algorithm
+Chinese Remainder Theorem
+Fermat’s Little Theorem
+Catalan Numbers
+
+19 - Computational Geometry Algorithms:
+
+Convex Hull (Graham Scan, Jarvis March)
+Line Intersection
+Closest Pair of Points
+
+20 - Miscellaneous:
+
+Union-Find (Disjoint Set Union)
+Heavy-Light Decomposition
+Centroid Decomposition
+Mo’s Algorithm (Query Square Root Decomposition)
+Suffix Array and Suffix Tree
